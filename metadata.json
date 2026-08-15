@@ -1,0 +1,6 @@
+{
+  "name": "원자량과 몰(Mole) 탐구 시뮬레이션",
+  "description": "고등학교 화학1 수업용 원자량, 상대 질량비, 실제 질량 비교 및 1몰(Mole) 개념 탐구 인터랙티브 가상 실험실",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
